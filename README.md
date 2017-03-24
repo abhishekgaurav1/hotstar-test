@@ -1,3 +1,2 @@
 # hotstar-test
 
-test
